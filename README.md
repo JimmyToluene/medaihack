@@ -1,4 +1,4 @@
-# MedAI Hackathon Teams
+ # MedAI Hackathon Teams
 | Team   | Team Name                   | Members |
 |--------|----------------------------|---------|
 | team1  | contexto                   | adithyad@bu.edu, jaxgils@bu.edu, fdzeolla@bu.edu, asaini27@bu.edu, daneshk@bu.edu |
